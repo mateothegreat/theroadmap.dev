@@ -1,2 +1,4 @@
-# Initial page
+# Introduction
+
+![](.gitbook/assets/logo.png)
 
