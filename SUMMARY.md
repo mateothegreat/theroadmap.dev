@@ -26,4 +26,5 @@
 ## ADVANCED
 
 * [Real-time with WebSockets](advanced/real-time-with-websockets.md)
+* [Video Streaming](advanced/video-streaming.md)
 
