@@ -18,11 +18,12 @@
 ## BEGINNERS
 
 * [Express Server](beginners/express-server.md)
+* [Discord Bot](beginners/discord-bot.md)
 
 ## INTERMEDIATE
 
 * [The CRUD Application](intermediate/the-crud-application.md)
-* [Discord Bot](intermediate/discord-bot.md)
+* [Angular Contact Manager](intermediate/angular-contact-manager.md)
 
 ## ADVANCED
 
