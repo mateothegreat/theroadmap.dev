@@ -22,6 +22,7 @@
 ## INTERMEDIATE
 
 * [The CRUD Application](intermediate/the-crud-application.md)
+* [Discord Bot](intermediate/discord-bot.md)
 
 ## ADVANCED
 
