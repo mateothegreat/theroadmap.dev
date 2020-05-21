@@ -7,26 +7,28 @@
 * [About](getting-started/about.md)
 * [Who is this for?](getting-started/who-is-this-for.md)
 
-## THE STACK
+## THE STACK <a id="stack"></a>
 
 * [Untitled](stack/untitled.md)
+
+## BEGINNERS
+
+* [Python for Automation](beginners/express-server.md)
+
+## INTERMEDIATE
+
+* [Containers](intermediate/containers.md)
+* [Reverse Proxying](intermediate/reverse-proxying.md)
+
+## ADVANCED
+
+* [Untitled](untitled.md)
 
 ## COMMUNITY
 
 * [Community Outreach](community/community-outreach.md)
 
-## BEGINNERS
+## YOUR TOOLBOX
 
-* [Express Server](beginners/express-server.md)
-* [Discord Bot](beginners/discord-bot.md)
-
-## INTERMEDIATE
-
-* [The CRUD Application](intermediate/the-crud-application.md)
-* [Angular Contact Manager](intermediate/angular-contact-manager.md)
-
-## ADVANCED
-
-* [Real-time with WebSockets](advanced/real-time-with-websockets.md)
-* [Video Streaming](advanced/video-streaming.md)
+* [Untitled](your-toolbox/untitled.md)
 
